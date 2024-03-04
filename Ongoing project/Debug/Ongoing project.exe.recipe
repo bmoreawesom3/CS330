@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\gsk3r\Desktop\school\cs330\new\Project\Ongoing project\Debug\Ongoing project.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\gsk3r\Desktop\school\cs330\new\Project\Ongoing project\Ongoing project\Ongoing project\external\textures\blue.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\gsk3r\Desktop\school\cs330\new\Project\Ongoing project\Ongoing project\external\textures\orange.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\gsk3r\Desktop\school\cs330\new\Project\Ongoing project\Ongoing project\external\textures\table.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
